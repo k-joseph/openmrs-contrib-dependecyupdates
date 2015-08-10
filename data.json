@@ -1,0 +1,31 @@
+{  
+   "mvnHome":"",
+   "logFilesLocation":"",
+   "openmrsProjects":[  
+      {  
+         "id":"core",
+         "name":"OpenMRS Core",
+         "description":"Core dependecies data",
+         "pomFilesLinks":[  
+            "https://raw.githubusercontent.com/openmrs/openmrs-core/master/pom.xml",
+            "https://raw.githubusercontent.com/openmrs/openmrs-core/master/api/pom.xml",
+            "https://raw.githubusercontent.com/openmrs/openmrs-core/master/release-test/pom.xml",
+            "https://raw.githubusercontent.com/openmrs/openmrs-core/master/test/pom.xml",
+            "https://raw.githubusercontent.com/openmrs/openmrs-core/master/web/pom.xml",
+            "https://raw.githubusercontent.com/openmrs/openmrs-core/master/webapp/pom.xml",
+            "https://raw.githubusercontent.com/openmrs/openmrs-core/master/tools/pom.xml"
+         ]
+      },
+      {  
+         "id":"chartsearch",
+         "name":"OpenMRS Chart Search Module",
+         "description":"ChartSearch dependecies data",
+         "pomFilesLinks":[  
+            "https://github.com/openmrs/openmrs-module-chartsearch/raw/master/pom.xml",
+            "https://github.com/openmrs/openmrs-module-chartsearch/raw/master/api/pom.xml",
+            "https://github.com/openmrs/openmrs-module-chartsearch/raw/master/server/pom.xml",
+            "https://github.com/openmrs/openmrs-module-chartsearch/raw/master/omod/pom.xml"
+         ]
+      }
+   ]
+}
